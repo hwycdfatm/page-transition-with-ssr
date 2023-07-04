@@ -49,7 +49,9 @@ html.transition,
 	z-index: 99;
 	transition: 0.3s;
 }
-
+.nav-list li {
+	min-width: 95px;
+	}
 .nav-list li:nth-child(2) {
 	margin: 0 1rem;
 }
